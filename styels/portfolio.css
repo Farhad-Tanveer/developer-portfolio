@@ -17,6 +17,26 @@
     height: 64px;
     background: #FD6E0A;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 16px;
+    background: #FFF8F3;
+    color: #FD6E0A;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #FD6E0A;
+    color: white;
 }
 
 .section-description {
